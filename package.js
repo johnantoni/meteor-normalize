@@ -1,7 +1,7 @@
 Package.describe({
   name: 'johnantoni:meteor-normalize',
   version: '0.0.1',
-  summary: 'normalize.css ~ A collection of HTML element and attribute style-normalizations ~ packaged for Meteor',
+  summary: 'normalize.css ~ packaged for Meteor',
   git: 'https://github.com/johnantoni/meteor-normalize.git',
   documentation: 'README.md'
 });
